@@ -2,3 +2,8 @@
     font-size: 24px;
     color: yellow;
 }
+
+.container-txt{
+    display: flex;
+    align-items: center;
+}
