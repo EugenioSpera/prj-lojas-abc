@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 
 @media only screen and (max-width: 600px) {
     .text-main {
       background-color: lightblue;
     }
   }
+=======
+.text-main{
+    font-size: 24px;
+    color: yellow;
+}
+
+.container-txt{
+    display: flex;
+    align-items: center;
+}
+>>>>>>> carrinho
